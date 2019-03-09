@@ -1,2 +1,2 @@
 # Blockchain
-Some small projects
+A simple python script which implements a very basic Blockchain. 
